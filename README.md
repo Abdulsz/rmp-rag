@@ -1,4 +1,5 @@
 Rate My Professor Chatbot
+Live link: https://ratemyprofessor-seven.vercel.app/
 
 This project is a web application that allows users to scrape information from Rate My Professor website. It includes both a frontend interface for users to submit URLs and interact with a chatbot, and a backend API that processes the scraping requests.
 
